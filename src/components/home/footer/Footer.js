@@ -1,11 +1,11 @@
 import React, { Fragment } from "react";
 
-const Home = () => {
+const Footer = () => {
   return (
     <Fragment>
-      <h1>Home</h1>
+      <h1>Footer</h1>
     </Fragment>
   );
 };
 
-export default Home;
+export default Footer;
