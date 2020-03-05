@@ -1,9 +1,14 @@
 import React, { Fragment } from "react";
+import "./Footer.css";
 
 const Footer = () => {
   return (
     <Fragment>
-      <h1>Footer</h1>
+      <div class="footer">
+        <p>
+          <b>Node Data Collector</b>
+        </p>
+      </div>
     </Fragment>
   );
 };
